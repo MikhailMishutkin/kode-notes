@@ -1,0 +1,1 @@
+Запуск приложения командой docker-compose up -d -build

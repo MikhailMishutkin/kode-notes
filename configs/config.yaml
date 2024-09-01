@@ -1,0 +1,6 @@
+api:
+  host: "localhost:8080"
+
+db:
+    conn: "host=kode_notes port=5432 user=root password=root dbname=kode_notes sslmode=disable"
+    migrate: "root:root@localhost:5432/kode_notes?sslmode=disable"
